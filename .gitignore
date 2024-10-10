@@ -3,6 +3,8 @@
 
 # Ignorar la carpeta '__pycache__'
 /app/__pycache__/
+
+# Ignorar la carpeta 'routers/__pycache__'
 /app/routers/__pycache__/
 
 # Ignorar la carpeta '.pytest_cache'
